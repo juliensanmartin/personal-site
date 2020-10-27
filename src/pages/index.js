@@ -144,16 +144,15 @@ const IndexPage = () => {
             <Text fontSize="xl" marginBottom="5rem">
               Hello! I'm a Software Engineer in Vancouver, Canada. In the last{" "}
               {getNumberYearExperience()} years I have been building products
-              and platforms across a wide range of sectors like Service of
-              videos streaming, Industry 4.0, Business Intelligence and
-              Analytics. I strive for:
+              and platforms across a wide range of sectors like Video Streaming,
+              Industry 4.0, Business Intelligence and Analytics. I strive for:
               <List styleType="disc" marginLeft="2rem" marginTop="1rem">
                 <ListItem>Giving users a first class experience</ListItem>
                 <ListItem>
                   Producing clean code and improving codebase in each commit
                 </ListItem>
                 <ListItem>Learning new things</ListItem>
-                <ListItem>Working in agile team</ListItem>
+                <ListItem>Working in agile teams</ListItem>
                 <ListItem>Mentoring junior developers</ListItem>
               </List>
             </Text>
